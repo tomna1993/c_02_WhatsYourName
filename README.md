@@ -25,7 +25,7 @@ We get the user's name as a string and save it in the **name** variable.
 > printf("Hello, %s", name);
 
 We can give more arguments to the printf function. In this example we give it a string and a variable. 
-The arguments are separeted by a comma (,). 
+The arguments are separeted by a comma ",". 
 
 **%s** is used to format a variable. The below formattings can be used:
 
